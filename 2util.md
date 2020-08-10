@@ -17,3 +17,5 @@ lz4 压缩算法
 // 可以动态改python代码达到需要的效果
 
 
+
+cq(continuous query) 连续查询
